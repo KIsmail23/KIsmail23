@@ -1,5 +1,5 @@
 🎯 AI Agent Builder | Quantitative Risk & Financial Modeling Specialist
-Building AI Agents for Pricing, Market Risk, Regulatory Models & Financial Analytics | Python • R • SQL • ML • MATLAB • C++
+Building AI Agents for Pricing, Market Risk, Regulatory Models & Financial Analytics | Python • R • SQL • ML • MATLAB 
 
 I build AI Agents and financial modeling pipelines that help quants, risk teams, and analysts price derivatives, validate models, analyze market risk, automate regulatory compliance, and transform financial decision-making with intelligent systems.
 
@@ -25,3 +25,7 @@ What I build
 
 🌱 Interested in what's next at the intersection of AI Agents, Derivative Pricing, Market Risk, and Regulation?
 Let’s build intelligent financial systems together.
+
+
+ABOUT ME:
+
