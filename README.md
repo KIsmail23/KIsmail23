@@ -27,9 +27,5 @@ What I build
 Let’s build intelligent financial systems together.
 
 
-<div align="left">
-
-<h2><a href="#">
-<hr/>
 
 
