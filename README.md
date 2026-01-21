@@ -8,7 +8,7 @@ Quantitative Risk & Financial Modeling Specialist
 </h3>
 
 <p align="center">
-Python • R • SQL • MATLAB • Machine Learning • Power BI • Tableau
+Python • R • SQL • MATLAB • Machine Learning • Power BI • Tableau • Advanced Excel & VBA
 </p>
 
 
