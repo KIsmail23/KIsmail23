@@ -4,7 +4,7 @@ ABOUT ME:
 
 <h1 align="center">Ismail Kadri</h1>
 <h3 align="center">
-Quantitative Risk & Financial Modeling Specialist  
+Quantitative Risk, Financial Modeling Specialist & Data Analysis  →  Data Science
 </h3>
 
 <p align="center">
