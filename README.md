@@ -1,7 +1,24 @@
-🎯 AI Agent Builder | Quantitative Risk & Financial Modeling Specialist
-Building AI Agents for Pricing, Market Risk, Regulatory Models & Financial Analytics | Python • R • SQL • ML • MATLAB 
 
-I build AI Agents and financial modeling pipelines that help quants, risk teams, and analysts price derivatives, validate models, analyze market risk, automate regulatory compliance, and transform financial decision-making with intelligent systems.
+ABOUT ME:
+
+
+<h1 align="center">Ismail Kadri</h1>
+<h3 align="center">
+Quantitative Risk & Financial Modeling Specialist  
+</h3>
+
+<p align="center">
+Python • R • SQL • MATLAB • Machine Learning • Power BI • Tableau
+</p>
+
+
+
+
+Hi, I’m Ismail Kadri, a Quantitative Risk & Financial Modeling Specialist working at the intersection of finance, data, and technology.
+I build scalable financial modeling pipelines for pricing, market risk, credit risk, regulatory modeling, and financial analytics.
+My core skills include Python, R, SQL, MATLAB, Machine Learning, Power BI, and Tableau, enabling both advanced modeling and clear visualization.
+I focus on transforming complex financial data into actionable insights for quants, risk teams, and decision-makers.
+Currently, I’m working on AI-driven financial modeling pipelines for credit risk, market risk, and intelligent financial systems.
 
 Most of my work is hands-on — real code, quant logic, risk assumptions, financial mathematics, and tested AI workflows built for production use in financial institutions. I design agents and tools that bring together:
 
